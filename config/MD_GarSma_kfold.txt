@@ -1,0 +1,5 @@
+subject19 subject1 subject5 subject12
+subject14 subject7 subject10 subject18
+subject15 subject13
+subject11 subject6 subject9 subject17
+subject4 subject3 subject8
